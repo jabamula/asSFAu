@@ -33,3 +33,7 @@ Version history:
 ================
 Ver 1.0 30.6.2021
 - first version
+
+Credits:
+========
+Air mass calculations based on functions based on Paul Schlyter's web site https://stjarnhimlen.se/comp/ppcomp.html
