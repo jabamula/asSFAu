@@ -20,8 +20,8 @@ Running the program:
 ====================
 Start asSFAu.py with your python platform
 - choose the FITS file(s) from your computer. You can choose one or more files for the same object.
-- after the file selection, the program will ask for the name of the project
-- the files are updated
+- after the file selection, the program will ask for the name of the object.
+- the files are updated and no new files are created.
 
 Python modules:
 ===============
