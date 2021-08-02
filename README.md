@@ -4,7 +4,7 @@ asSFAu.py  add some data to the header of Slooh FITS file(s) for AAVSO VPHOT upl
 
 Program code is Python 3.7 to add following data to the header of the selected FIT file(s):
 - the name of the object
-- Ra and Dec coordinates a
+- Ra and Dec coordinates
 - the air mass of the object at the time of the observation. 
  
 This data addition simplifies the upload process for AAVSO upload.
@@ -14,7 +14,7 @@ Required files:
 1. asSFAu.py program 
 2. FITS files from Slooh 
 
-IMPORTANT Ra and Dec coordinates and the observation date & time has to be in the file name. The date & time are always, but intead of the coordinate, there is the object named. In that case the name of the object has to be replaced with the coordinates.
+IMPORTANT Ra and Dec coordinates and the observation date & time has to be in the file name. The date & time are there always, but instead of the coordinate, often the object is inserted to the name. But a good thing is that for for variable stars this is usually not the case. In that case the name of the object has to be replaced with the coordinates.
 
 Running the program:
 ====================
