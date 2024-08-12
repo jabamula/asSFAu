@@ -2,9 +2,10 @@
 ***********************************************
 asSFAu.py  add some data to the header of Slooh FITS file(s) for AAVSO VPHOT upload
 
-Program code is Python 3.7 to add following data to the header of the selected FIT file(s):
+Program code is Python 3 to add following data to the header of the selected FIT file(s):
 - the name of the object
 - Ra and Dec coordinates
+- the filter used in the observation
 - the air mass of the object at the time of the observation. 
  
 This data addition simplifies the upload process for AAVSO upload.
